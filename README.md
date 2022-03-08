@@ -6,6 +6,8 @@
   &emsp;
   <img align="center" alt="Nico-Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   &emsp;
+  <img align="center" alt="Nico-VSCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  &emsp;
   <img align="center" alt="Nico-Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &emsp;
   <img align="center" alt="Nico-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
