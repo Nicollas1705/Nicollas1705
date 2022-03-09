@@ -16,7 +16,7 @@
   &emsp;
   [<img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](  "Python")
   &emsp;
-  [<img align="center" alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">](  "SQL")
+  [<img align="center" alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">](  "PostgreSQL")
 </div>
 <br>
 <br>
