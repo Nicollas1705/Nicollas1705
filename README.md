@@ -5,17 +5,18 @@
 <br>
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Nico-Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+
+  [<img align="center" alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">](  "Flutter")
   &emsp;
-  <img align="center" alt="Nico-Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  [<img align="center" alt="Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">](  "Dart")
   &emsp;
-  <img align="center" alt="Nico-VSCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  [<img align="center" alt="VSCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">](  "VSCode")
   &emsp;
-  <img align="center" alt="Nico-Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  [<img align="center" alt="Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](  "JavaScript")
   &emsp;
-  <img align="center" alt="Nico-Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  [<img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](  "Python")
   &emsp;
-  <img align="center" alt="Nico-SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  [<img align="center" alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">](  "SQL")
 </div>
 <br>
 <br>
