@@ -12,11 +12,17 @@
   &emsp;
   [<img align="center" alt="VSCode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">](  "VSCode")
   &emsp;
+  [<img align="center" alt="Postman" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">](  "Postman")
+  &emsp;
   [<img align="center" alt="Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](  "JavaScript")
   &emsp;
   [<img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">](  "Python")
   &emsp;
   [<img align="center" alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">](  "PostgreSQL")
+  &emsp;
+  [<img align="center" alt="C" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">](  "C")
+  &emsp;
+  [<img align="center" alt="Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">](  "Java")
 </div>
 <br>
 <br>
