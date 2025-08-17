@@ -31,8 +31,6 @@
 <br>
 
 <div align="center"> 
-  <a href="https://linktr.ee/nicollas.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-292929?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
-  &emsp;
   <a href="https://www.linkedin.com/in/nicollas-oliveira-mota-45b9b7114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   &emsp;
   <a href = "mailto:nicollasmota1705@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
